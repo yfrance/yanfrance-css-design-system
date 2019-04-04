@@ -1,10 +1,10 @@
-#paradise.island.com
+# [PARADISE.ISLAND.COM](https://www.google.com)
 
-##Home
+## Home
 
-##About us
+## About us
 
-##Gallery
+## Gallery
 
 - Biak City
 - Biak Timur
@@ -13,5 +13,5 @@
 - Biak Numfor
 - Kepulauan Padaido
 
-##Contact us
+## Contact us
 Paradise Islands
